@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/99e2c2cf9508116578d0bb5e82ff59c6/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/99e2c2cf9508116578d0bb5e82ff59c6/core-1.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/99e2c2cf9508116578d0bb5e82ff59c6/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/99e2c2cf9508116578d0bb5e82ff59c6/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

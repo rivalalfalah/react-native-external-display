@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/a4aa75ad6ccbe3ab81ae94031ca63766/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/media/ubuntu/newPart/lunapos/luna-mobile-pos/apps/luna-tablet/node_modules/react-native-external-display/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-2/files-2.1/bd3e51644e31897af403c00f69e06eb0/jetified-react-native-0.63.5/res/anim/catalyst_push_up_in.xml"
+    }
+]
